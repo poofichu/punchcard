@@ -51,7 +51,7 @@
     "ibm-design-colors": "^1.6.0",
     "js-yaml": "^3.5.5",
     "knex": "^0.10.0",
-    "lodash": "^4.6.1",
+    "lodash": "^4.13.1",
     "morgan": "^1.6.1",
     "node-dir": "^0.1.11",
     "nodemon": "^1.9.1",
